@@ -9,7 +9,6 @@ If you're interested in knowing more about my experience and skills, please don'
 - 🔭 I’m currently working on Web & Blockchain development
 - 🌱 I’m currently learning Crypto Trading bot development
 - 💬 Ask me about anything except I don't know.
-- 📫 How to reach me: alexandercruciata1012@gmail.com
 - ⚡ Fun fact: I'm not sure yet.
 
 ### 🛠 &nbsp;Tech Stack
